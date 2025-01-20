@@ -1,0 +1,6 @@
+body {
+    background-image: url("sigma.jpg");
+    -webkit-text-fill-color: rgb(0, 136, 255);
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
